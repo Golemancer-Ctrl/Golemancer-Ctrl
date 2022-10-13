@@ -6,7 +6,7 @@
 <br />
 💞️ I’m looking to collaborate on just about any project involving front-end work.
 <br />
-📫 How to reach me through GitHub, or at ericmarcyjr@gmail.com
+📫 Reach me through GitHub, or at ericmarcyjr@gmail.com
 
 <!---
 Golemancer-Ctrl/Golemancer-Ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
