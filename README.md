@@ -3,13 +3,17 @@
 
 👋 Hi, I’m @Golemancer-Ctrl (otherwise known as Eric), nice to meet you!
 <br />
+<br />
 👀 I’m interested in game design, web design, JavaScript, Node.js and using code to breathe life into my own personal projects!
+<br />
 <br />
 🌱 I’m currently learning JavaScript, web development front-end (HTML, CSS), web development back-end (SQL, MongoDB, Express.js), game design, and much more!  
 <br />
 📚 I'm studying with Rutgers' Full-Stack Web Developer bootcamp, with a bit of support from courses through Sololearn and Codecademy.
 <br />
+<br />
 💞️ I’m looking to collaborate on just about any project where I can hone my skills further, just shoot me a message!
+<br />
 <br />
 📫 Reach me through GitHub, or at ericmarcypro@gmail.com
 
