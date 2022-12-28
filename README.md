@@ -1,7 +1,7 @@
 ![022a13f8-1560-4209-afe6-06da9f2e7f46](https://user-images.githubusercontent.com/109562526/209738426-c1be4fae-2e0d-495d-bf78-8a18967b9fe3.png)
 
 
-👋 Hi, I’m @Golemancer-Ctrl (otherwise known as Eric), nice to meet you!
+👋 Hi, I’m Eric Marcy (@Golemancer-Ctrl), nice to meet you!
 <br />
 <br />
 👀 I’m interested in game design, web design, JavaScript, Node.js and using code to breathe life into my own personal projects!
